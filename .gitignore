@@ -1,5 +1,6 @@
 .vscode
 .DS_Store
 *.tsv000
+*.tsv001
 .venv
 .ipynb_checkpoints
