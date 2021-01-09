@@ -4,3 +4,7 @@
 *.tsv001
 .venv
 .ipynb_checkpoints
+*.jpg
+unsplash-dataset/yolo5
+unsplash-dataset/yolo5_backup
+*.pt
