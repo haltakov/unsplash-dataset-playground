@@ -5,6 +5,8 @@
 .venv
 .ipynb_checkpoints
 *.jpg
+*.png
 unsplash-dataset/yolo5
 unsplash-dataset/yolo5_backup
 *.pt
+notebooks/visualize-objects/yolov5
